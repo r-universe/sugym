@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CausCor"]
+	path = CausCor
+	url = https://github.com/sugym/causcor
+	shallow = true
+	registered = true
